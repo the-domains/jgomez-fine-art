@@ -1,0 +1,29 @@
+name: JGomez Fine Art
+favicon: null
+layout_spectrum: 0.6379917217418551
+typography_spectrum: 0.9856686312705278
+title: 'JGomez Fine Art - Fine Art Photographer From Tampa, FL'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08345915214158595
+  lightness: 0.162480111932382
+  saturation: 0.939665355719626
+  rhythmicContrast: 0.2969640551600605
+purpose: []
