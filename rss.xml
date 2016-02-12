@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JGomez Fine Art - Fine Art Photographer From Tampa, FL]]></title>
+        <description><![CDATA[JGomez Fine Art - Fine Art Photographer From Tampa, FL]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 22:58:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test post for my new Grid website.</p>]]></description>
+            <link>undefinedb7dfa832-d0a4-4334-9dea-1713eadbdaa8/index.html</link>
+            <guid isPermaLink="false">b7dfa832-d0a4-4334-9dea-1713eadbdaa8</guid>
+            <pubDate>Thu, 11 Feb 2016 22:58:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
